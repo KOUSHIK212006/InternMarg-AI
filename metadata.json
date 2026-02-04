@@ -1,0 +1,7 @@
+{
+  "name": "InternMarg AI",
+  "description": "An AI-powered internship recommendation platform for the PM Internship Scheme, featuring smart matching, multi-language support, and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
